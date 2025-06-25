@@ -1,7 +1,7 @@
 # 🌐 Global Search
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/Atom1cByte/Global-Search?style=social)](https://github.com/Atom1cByte/Global-Search/stargazers)
-[![Discord](https://img.shields.io/discord/000000000000000000?color=7289DA&label=Discord)](#support)
+[![Discord](https://img.shields.io/discord/1369769360717250620?color=7289DA&label=Discord)](https://discord.gg/x8ZqX673uS)
 [![License](https://img.shields.io/github/license/Atom1cByte/Global-Search)](LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/Atom1cByte/Global-Search)](https://github.com/Atom1cByte/Global-Search/commits/main)
 
@@ -30,3 +30,8 @@ Star this repo if you want me to get it added to the official vencord client.
 
 ## 🤔 How does it work?
 Blog post on that soon. 
+
+---
+
+##  LICENSE
+because apparently that's a thing you're supposed to have. just check the source for it. 
