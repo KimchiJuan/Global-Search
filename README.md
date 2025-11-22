@@ -29,7 +29,9 @@ Star this repo if you want me to get it added to the official vencord client.
 --- 
 
 ## 🤔 How does it work?
-Blog post on that soon. 
+Click on the magnifying glass in your Message box
+Type whatever you want to search
+Click "Load More" for more searches
 
 ---
 
